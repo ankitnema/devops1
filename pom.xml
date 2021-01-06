@@ -323,7 +323,7 @@
                                         <aggregate>true</aggregate>
                                         <format>xml</format>
                                         <rulesets>
-                                            <ruleset>/pmd-rules.xml</ruleset>
+                                            <ruleset>/ruleset_basics.xml</ruleset>
                                         </rulesets>
                                         <!-- CPD options -->
                                         <minimumTokens>20</minimumTokens>
@@ -437,7 +437,7 @@
                             <aggregate>true</aggregate>
                             <format>xml</format>
                             <rulesets>
-                                <ruleset>/pmd-rules.xml</ruleset>
+                                <ruleset>/ruleset_basics.xml</ruleset>
                             </rulesets>
                             <!-- CPD options -->
                             <minimumTokens>20</minimumTokens>
